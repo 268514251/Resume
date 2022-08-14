@@ -1,0 +1,92 @@
+/* styles for tags */
+/* li {
+    background-color: yellow;
+}
+
+h3 {
+    color: blueviolet;
+}
+ 
+div {
+    background-color: brown;
+}  */
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* main styles */
+
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #F5F7FA;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+/* main-content styles */
+
+.main-content {
+    background-color: #FFFFFF;
+}
+
+/* about styles */
+
+.about {
+    background-color: yellow;
+}
+
+/* project styles */
+
+.projects {
+    
+    background: chocolate;
+    margin-top: 100px;
+    margin-bottom: 300px;
+    margin-left: 60px;
+    margin-right: 90px;
+
+    /* margin all 50 xp */
+    /* margin:  50px; */
+
+    /* margin top&bottom 50xp and right&left 100px */
+    /* margin: 50px 100px; */
+
+    /* margin: 100px 90px 60px 300px; */
+}
+
+.project-title {
+    font-size: 45px;
+    color: blue;
+}
+
+/* work styles */
+
+.work {
+    background-color: cyan;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 40px;
+
+    /* padding all 50 xp */
+    /* padding:  50px; */
+
+    /* padding top&bottom 50xp and right&left 100px */
+    /* padding: 50px 100px; */
+
+    /* padding: 100px 40px 50px 20px; */
+}
+
+/* education styles */
+
+.education {
+    background-color: darkblue;
+}
+
+/* sidebar styles */
+
+.sidebar {
+    background-color: #1E2939;
+}
