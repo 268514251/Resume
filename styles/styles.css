@@ -17,7 +17,7 @@ body {
 .main-content {
     background-color: #FFFFFF;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    padding: 105px; 90px
+    padding: 105px; 90px;
 }
 
 /* about styles */
@@ -105,7 +105,7 @@ body {
 /* work styles */
 
 .work {
-
+    margin-bottom: 45px;
 }
 
 .work-position {
@@ -162,7 +162,7 @@ body {
 /* education styles */
 
 .education {
-margin-top: 45px;
+/* margin-top: 45px; */
 }
 
 .education-work-position {
